@@ -2,9 +2,13 @@
 ISE 304 Group Project - Global Cargo Connect App Development
 
 Group Members
+
 Samet Genç [mail](sgenc1@binghamton.edu)
+
 Emre Demir [mail](edemir2@binghamton.edu)
+
 Abdullah Salih Özgüven [mail](aozguve1@binghamton.edu)
+
 Selim Albayrak [mail](albayrakselim9@gmail.com)
 
 

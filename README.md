@@ -1,6 +1,13 @@
 # GlobalCargoConnectApp
 ISE 304 Group Project - Global Cargo Connect App Development
 
+Group Members
+Samet Genç [mail](sgenc1@binghamton.edu)
+Emre Demir [mail](edemir2@binghamton.edu)
+Abdullah Salih Özgüven [mail](aozguve1@binghamton.edu)
+Selim Albayrak [mail](albayrakselim9@gmail.com)
+
+
 # GlobalCargo Connect
 
 Welcome to the GitHub repository for GlobalCargo Connect, an innovative mobile application designed to revolutionize the exporting and importing processes for companies and traders globally. This project is part of the ISE 304 SW Engineering course at Istanbul Technical University.
@@ -8,6 +15,7 @@ Welcome to the GitHub repository for GlobalCargo Connect, an innovative mobile a
 ## About the Project
 
 GlobalCargo Connect facilitates efficient and reliable shipping services, bridging the gap between ship owners and customers worldwide. Our mission is to provide a user-friendly platform for seamless cargo transportation management.
+
 
 ### Current State of the Application
 

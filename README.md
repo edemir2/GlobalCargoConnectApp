@@ -40,11 +40,11 @@ With further development and potential investment, we aim to:
 
 ## Getting Started
 
-Refer to the [Project Plan](PROJECT_PLAN_ISE304.pdf) and [Requirements Specification](REQUIREMENTS SPECIFICATION.pdf) for detailed information.
+Refer to the [Project Plan](PROJECT_PLAN_ISE304.pdf) and [Requirements Specification](REQUIREMENTS_ANALYSIS.pdf) for detailed information.
 
 ## Collaboration
 
-Interested in contributing? Please review the [Requirements Analysis](REQUIREMENTS ANALYSIS.pdf) to understand user scenarios and system requirements.
+Interested in contributing? Please review the [Requirements Analysis](REQUIREMENTS_ANALYSIS.pdf) to understand user scenarios and system requirements.
 
 ## Contact
 

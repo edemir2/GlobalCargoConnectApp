@@ -38,18 +38,22 @@ With further development and potential investment, we aim to:
 - **Backend**: Java (server-side operations in progress).
 - **Data Handling**: JSON for client-server communication.
 
+## Documentation
+
+- [DESIGN_SPECIFICATION.pdf](./DESIGN_SPECIFICATION.pdf) - Detailed design specifications of the application.
+- [PROJECT_PLAN_ISE304.pdf](./PROJECT_PLAN_ISE304.pdf) - Overall project plan, including timelines and milestones.
+- [REQUIREMENTS_ANALYSIS.pdf](./REQUIREMENTS_ANALYSIS.pdf) - Analysis of the system requirements and user scenarios.
+
 ## Getting Started
 
-Refer to the [Project Plan](PROJECT_PLAN_ISE304.pdf) and [Requirements Specification](REQUIREMENTSANALYSIS.pdf) for detailed information.
+Please refer to the provided documentation for detailed information on the project scope, design, and requirements.
 
 ## Collaboration
 
-Interested in contributing? Please review the [Requirements Analysis](REQUIREMENTSANALYSIS.pdf) to understand user scenarios and system requirements.
+Interested in contributing? Your insights and contributions are welcome. Please familiarize yourself with the project documentation to understand the system requirements and ongoing work.
 
 ## Contact
 
-For inquiries or suggestions, reach out.
+For inquiries or suggestions, feel free to reach out.
 
 ---
-
-*Note: Replace `[Your Contact Information]` and `[link-to-document]` placeholders with your actual contact details and document links.*

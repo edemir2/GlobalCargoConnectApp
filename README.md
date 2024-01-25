@@ -16,6 +16,26 @@ Selim Albayrak [mail](albayrakselim9@gmail.com)
 
 Welcome to the GitHub repository for GlobalCargo Connect, an innovative mobile application designed to revolutionize the exporting and importing processes for companies and traders globally. This project is part of the ISE 304 SW Engineering course at Istanbul Technical University.
 
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. **Clone the Repository**: 
+   git clone https://github.com/your-username/your-repo.git
+
+2. Navigate to the Project Directory:
+   cd your-repo
+
+3. Install Dependencies:
+  Before running the project, you need to install its dependencies using npm. Run the following command:
+  npm install
+
+4. Start the Project:
+  Once the dependencies are installed, you can start the project:
+  npm start
+
+
+
 ## About the Project
 
 GlobalCargo Connect facilitates efficient and reliable shipping services, bridging the gap between ship owners and customers worldwide. Our mission is to provide a user-friendly platform for seamless cargo transportation management.

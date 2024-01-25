@@ -1,0 +1,14 @@
+
+The link to the GitHub repo:
+
+    https://github.com/edemir2/GlobalCargoConnectApp
+
+The link to the YouTube video: (It is also available in demo.txt as requested)
+
+    https://youtu.be/p7Q2wdrnnR8
+
+    If link doesn't work it's possible to visit YouTube channel called edmr64 
+    and in the playlists part it is possible see ISE304 project playlist (https://www.youtube.com/@edmr64/playlists)
+
+
+

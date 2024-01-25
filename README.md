@@ -1,5 +1,6 @@
-# GlobalCargoConnectApp
-ISE 304 Group Project - Global Cargo Connect App Development
+# GlobalCargoConnectApp 
+ISE 304 Group Project - Global Cargo Connect App Development  (Oct ‘23 – Jan ‘24)
+
 
 Group Members
 
